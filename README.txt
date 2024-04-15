@@ -1,0 +1,1 @@
+Go to "https://huggingface.co/settings/tokens" and get your own API key.
